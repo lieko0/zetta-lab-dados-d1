@@ -16,7 +16,7 @@ Passo a passo para solucionar o desafio:
 
 Realizado:
 
-1) ARTIGO: Francisco, F. A., Toledo, P. M., & Coelho, A. S. (2024). Desafios socioambientais decorrentes da expansão da fronteira Amazônica no contexto do desmatamento regional. InterEspaço Grajaú/MA, 10(2), 1-29.
+1) ARTIGO: Francisco, F. A., Toledo, P. M., & Coelho, A. S. (2024). Desafios socioambientais decorrentes da expansão da fronteira Amazônica no contexto do desmatamento regional. InterEspaço Grajaú/MA, 10(2), 1-29. [link](https://periodicoseletronicos.ufma.br/index.php/interespaco/article/view/23154)
 2) DADOS BRUTOS: Incremento no desmatamento da Amazônia Legal à partir de 2008 (PRODES) & Produto Interno Bruto dos Municípios (IBGE)
 3) DADOS TRATADOS: [PRODES](prodes/desmatamento_prodes_para_municipios_2008_2024.csv) & [IBGE](ibge/data/processed/pib_para_estudo.csv)
 4) JUPYTER NOTEBOOK:
